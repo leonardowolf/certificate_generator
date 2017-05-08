@@ -1,0 +1,7 @@
+Proposta de evolução do projeto
+1 - Adicionar um item ao menú Instituição chamado "Templates"
+2 - Criar uma nova view para "Templates" parecida com a view "Eventos"
+3 - O usuario é capaz de fazer Crud de "Templates" para certificados
+4 - Criar um mini editor de textos para o usuario digitar a template com botões que imprimem no texto as variaveis que são usadas na geração do Certificado
+5 - Adicionar um widget para o usuario selecionar o tenplate a ser usado na view "Certificados"
+
